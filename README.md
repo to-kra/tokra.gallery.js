@@ -44,3 +44,5 @@ Include these in your html:
   </script>
 </body>
 ```
+#### 1.2 Live example
+http://wedding.tokra.sk/
